@@ -1,3 +1,6 @@
+this file have been update with the info that git fetch will show only the changes of the branch and the code includes 
+git fetch origin branchname
+and user need to swithc to that branch for status check of the branch 
 echo This is node 1 
 echo ip 
 1932.168.33.12[D[D[D[D\[A
